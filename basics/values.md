@@ -1,4 +1,4 @@
-# 💖 Values
+# Values
 
 ## Our Values
 

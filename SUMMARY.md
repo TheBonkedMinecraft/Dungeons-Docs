@@ -1,24 +1,20 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [Introduction!](README.md)
 
-## About us
+## Basics
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [Values](basics/values.md)
 
-## Team
+## Difficulties
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [Introduction](difficulties/introduction/README.md)
+  * [Easy](difficulties/introduction/easy.md)
+  * [Normal](difficulties/introduction/normal.md)
+  * [Hard](difficulties/introduction/hard.md)
+  * [Extreme](difficulties/introduction/extreme.md)
 
-## Collaborating
+## Mobs
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [Mob 1](mobs/mob-1.md)
+* [Mob 2](mobs/mob-2.md)
