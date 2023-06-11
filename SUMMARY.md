@@ -4,7 +4,7 @@
 
 ## Basics
 
-* [Values](basics/values.md)
+* [Welcome](basics/values.md)
 
 ## Difficulties
 

@@ -1,31 +1,7 @@
-# Values
+# Welcome
 
-## Our Values
+## Welcome to Dungeons!
 
-{% hint style="info" %}
-**GitBook tip:** values reflect us as a team and shape our culture. Our values should be the daily foundation on which we define our goals and execute our work.
-{% endhint %}
-
-<details>
-
-<summary>🚀 Integrity</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>✊ Diligence</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>💪 Accountability</summary>
-
-
-
-</details>
+I don't actually know what to put here...\
+you can get rid of the 'Basics' category, I used a template and just obliterated it to be simpler peepoRun, so change it to however you see fit :D\
+\- _Skull_
